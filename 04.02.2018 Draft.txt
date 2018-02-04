@@ -1,0 +1,185 @@
+github.com
+
+
+
+1) to dowload GIT
+
+git-scm.com
+
+
+
+/ version control systems
+
+
+
+
+
+
+pwd  - print working directory
+
+cd - change directory
+
+
+ls-a  -- list all
+
+
+
+
+ls-l - list long
+
+
+
+
+
+
+ls-al - list all long
+
+
+
+
+
+ls - alt - list all long time
+
+
+
+
+
+0-1-2-3-4-5 - ascending
+
+
+
+4-3-2-1- - descending
+
+
+
+
+
+ls - n - list name
+
+
+
+
+
+ls-t - list time
+
+
+
+
+
+ls-nr - list name reverse
+
+
+
+
+
+
+mkdir - make directory* create folder
+
+
+
+
+
+
+rm - remove
+
+
+
+rm-r - remove recursive
+
+
+
+
+touch - create any file
+
+
+
+
+
+example - touch new.txt
+
+
+
+
+
+
+
+
+vi - edit files
+
+
+
+example vi new.txt
+
+
+
+
+
+
+
+
+echo - add words in text
+
+
+
+
+
+
+
+cp new.txt Test1/ - copy files
+
+
+
+mv new.txt Test1/ - cut and paste in folders
+mv test5/new.txt test5/new2.txt test5/new2.txt Test2/
+
+
+
+
+
+
+mv  new.txt new4.txt - rename files
+
+
+cp
+
+
+m
+
+
+echo "HI World" 
+
+
+
+
+
+
+cat main.txt - shows you all text of the file
+
+
+vi main.txt - let you ability to edit file
+
+
+
+
+
+
+
+
+
+
+
+readme
+
+md - mark down
+
+
+
+
+
+
+
+
+
+
+
+
