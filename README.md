@@ -8,3 +8,10 @@
   https://www.codecademy.com/learn/learn-git
   
 *Uğurlar.*
+
+
+
+10.02.2018 06:04
+Yerine yetirildi
+
+*Shamil Sadigov*
